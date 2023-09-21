@@ -32,7 +32,7 @@ def communicate():
 
 
 # ユーザーインターフェイスの構築
-st.title(" 「レシピ」を考えるチャットボット")
+st.title(" まなくると「レシピ」を考えるチャットボット")
 st.image("01_recipe.png")
 st.write("どんな食事を作りたいですか？")
 
